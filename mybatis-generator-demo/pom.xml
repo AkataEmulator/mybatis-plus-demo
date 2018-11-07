@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.suns</groupId>
-    <artifactId>mybatis-plus-demo-generator</artifactId>
+    <artifactId>mybatis-generator-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>mybatis-plus-demo-generator</name>
-    <description>Demo project for mybatis-plus</description>
+    <name>mybatis-generator-demo</name>
+    <description>Demo project for mybatis-generator</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
